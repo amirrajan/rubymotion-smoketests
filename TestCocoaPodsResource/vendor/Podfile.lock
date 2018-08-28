@@ -1,0 +1,16 @@
+PODS:
+  - QBImagePickerController (1.0)
+
+DEPENDENCIES:
+  - QBImagePickerController (= 1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - QBImagePickerController
+
+SPEC CHECKSUMS:
+  QBImagePickerController: df5983ca34e45336edf50139aca0b0d7b966b4b5
+
+PODFILE CHECKSUM: 6ba6ea92abb7b874cfbac5c5c42596d8aa5be704
+
+COCOAPODS: 1.5.3
